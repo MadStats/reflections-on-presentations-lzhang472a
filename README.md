@@ -43,16 +43,57 @@ What were aspects of the presentations for which you had concerns or questions:
 
 ############################
 
+Title of presentation: 6)game
 
+This is my group.
 
+############################
 
+Title of presentation: 7)hb1
 
+What were aspects of the presentation that you liked:
 
+What were aspects of the presentations for which you had concerns or questions:
+The final colusion is not so clear for the thesis statement.
 
+############################
 
+Title of presentation: 8)traffic
 
+What were aspects of the presentation that you liked:
+The thesis statement is clear.
+What were aspects of the presentations for which you had concerns or questions:
+The model fitting process is not strong and logical enough.
 
+############################
 
+Title of presentation: 9)songs
+
+What were aspects of the presentation that you liked:
+The topic and data are really interesting.
+What were aspects of the presentations for which you had concerns or questions:
+There are too many things in their analysis, which I think will go beyond the limitation of words in 
+paper.
+
+############################
+
+Title of presentation: 10)nba
+
+What were aspects of the presentation that you liked:
+
+What were aspects of the presentations for which you had concerns or questions:
+Their project is not focused enough, just like we do.
+
+############################
+
+Title of presentation: 11)terrorist
+
+What were aspects of the presentation that you liked:
+
+What were aspects of the presentations for which you had concerns or questions:
+Not focused enough, we should change our thesis statements more focused.
+
+############################
 
 
 
